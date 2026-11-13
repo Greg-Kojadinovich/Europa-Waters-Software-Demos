@@ -34,6 +34,8 @@ Color mixing for painters, with real pigment-based mixing, a paint palette, a ca
 
 ## Kings Puzzle
 
+[![Kings Puzzle](media/kings-hero.png)](https://apps.apple.com/us/app/kings-puzzle/id6816609867?mt=12)
+
 A logic puzzle game with daily challenges.
 
 [**Get Kings Puzzle on the App Store**](https://apps.apple.com/us/app/kings-puzzle/id6816609867?mt=12)
