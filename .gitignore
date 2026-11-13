@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Europa Waters demo repo: ignore everything except the README, this file, and the published demo media
+/*
+!/.gitignore
+!/README.md
+!/media/
+!/videos/
