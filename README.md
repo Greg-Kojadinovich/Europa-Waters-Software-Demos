@@ -61,3 +61,11 @@ A logic puzzle game with daily challenges.
   <a href="videos/kings-mac-preview-2.mp4"><img src="media/kings-mac-preview-2.gif" width="320" alt="Kings Puzzle Mac preview 2"></a>
   <a href="videos/kings-mac-preview-3.mp4"><img src="media/kings-mac-preview-3.gif" width="320" alt="Kings Puzzle Mac preview 3"></a>
 </p>
+
+---
+
+## Moons
+
+![Moons](media/moons-hero.png)
+
+**Coming Soon**
